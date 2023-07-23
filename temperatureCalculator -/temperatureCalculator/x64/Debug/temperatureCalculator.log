@@ -1,0 +1,7 @@
+﻿  temperatureCalculator.cpp
+C:\Games and Apps\C++\temperatureCalculator\temperatureCalculator\temperatureCalculator.cpp(25,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Games and Apps\C++\temperatureCalculator\temperatureCalculator\temperatureCalculator.cpp(37,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Games and Apps\C++\temperatureCalculator\temperatureCalculator\temperatureCalculator.cpp(43,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Games and Apps\C++\temperatureCalculator\temperatureCalculator\temperatureCalculator.cpp(49,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Games and Apps\C++\temperatureCalculator\temperatureCalculator\temperatureCalculator.cpp(55,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  temperatureCalculator.vcxproj -> C:\Games and Apps\C++\temperatureCalculator\x64\Debug\temperatureCalculator.exe
